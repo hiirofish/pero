@@ -1,0 +1,20 @@
+./thread.py:9: [E302] expected 2 blank lines, found 1
+./thread.py:10: [E111] indentation is not a multiple of 4
+./thread.py:11: [E111] indentation is not a multiple of 4
+./thread.py:12: [E231] missing whitespace after ','
+./thread.py:13: [E231] missing whitespace after ','
+./thread.py:14: [E231] missing whitespace after ','
+./thread.py:15: [E231] missing whitespace after ','
+./thread.py:22: [E225] missing whitespace around operator
+./thread.py:23: [E225] missing whitespace around operator
+./thread.py:24: [E225] missing whitespace around operator
+./thread.py:25: [E225] missing whitespace around operator
+./thread.py:26: [E225] missing whitespace around operator
+./thread.py:28: [E225] missing whitespace around operator
+./thread.py:28: [E231] missing whitespace after ','
+./thread.py:29: [E225] missing whitespace around operator
+./thread.py:29: [E231] missing whitespace after ','
+./thread.py:30: [E225] missing whitespace around operator
+./thread.py:30: [E231] missing whitespace after ','
+./thread.py:31: [E225] missing whitespace around operator
+./thread.py:31: [E231] missing whitespace after ','
